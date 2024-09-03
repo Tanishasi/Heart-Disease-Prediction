@@ -10,9 +10,7 @@ The goal is to predict whether a patient has heart disease or not based on their
 # 2. Data
 The dataset used for this project is from Kaggle's heart disease dataset.
 
-Dataset Link: Heart Disease Dataset
-Description:
-This dataset dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the target attribute, but all published experiments refer to using a subset of 14 of them. The "target" field refers to the presence of heart disease in the patient. It is an integer-valued field with:
+# Dataset Link: Heart Disease Dataset
 
 0 = No heart disease
 1 = Heart disease
