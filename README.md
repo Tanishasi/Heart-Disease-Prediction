@@ -10,8 +10,7 @@ The goal is to predict whether a patient has heart disease or not based on their
 # 2. Data
 The dataset used for this project is from Kaggle's heart disease dataset.
 
-# Dataset Link: Heart Disease Dataset
-
+ Dataset Link: (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 0 = No heart disease
 1 = Heart disease
 Features:
